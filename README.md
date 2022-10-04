@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justkkozlow
-- 👀 I’m interested in Python programming
+- 👀 I’m interested in Python 🐍 programming
 - 🌱 I’m currently learning in Fogstream Academy
 
 <!---
