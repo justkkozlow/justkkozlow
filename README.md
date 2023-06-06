@@ -1,6 +1,6 @@
 # HI 👋 I`m a Backend Python Developer
 
-* :ru: My name is Kirill and I from Khabarovsk Russia
+* :ru: My name is Kirill and I`m from Khabarovsk Russia
 * :checkered_flag: In 2023 I finished learning in [Fogstream Academy](https://fogsdemy.ru)
 
 ## MY TECH STACK:
