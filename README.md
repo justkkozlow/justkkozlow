@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @justkkozlow
-- 👀 I’m interested in Python 🐍 programming
-- 🌱 I’m currently learning in Fogstream Academy
+#### 👋 Hi, I’m @justkkozlow
+#### 👀 I’m interested in Python 🐍 programming
+#### 🌱 I’m currently learning in Fogstream Academy
 
 <!---
 justkkozlow/justkkozlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
