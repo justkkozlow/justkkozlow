@@ -32,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
-![JavaScript](https://img.shields.io/badge/-Celery-%23323330?style=flat-square&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=JavaScript)
 
 
 
