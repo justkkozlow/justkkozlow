@@ -2,7 +2,7 @@
 
 * :ru: My name is Kirill and I`m from Khabarovsk Russia
 * :checkered_flag: In 2023 I finished learning in [Fogstream Academy](https://fogsdemy.ru)
-* :eyes: Now I`m looking for an internship
+* 👷: Now I`m working in [Fogstream](https://www.fogstream.ru/)
 
 
 
