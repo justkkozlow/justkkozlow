@@ -4,10 +4,6 @@
 * :checkered_flag: In 2023 I finished learning in [Fogstream Academy](https://fogsdemy.ru)
 * 👷: Now I`m working in [Fogstream](https://www.fogstream.ru/)
 
-
-
-<div align="left">
-  
 **BACK-END**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -36,9 +32,6 @@
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=JavaScript)
 
-</div>
-
-<img src="https://github.com/justkkozlow/justkkozlow/raw/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif" width="300" align="right">
 
 
 
